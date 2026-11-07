@@ -40,7 +40,7 @@ project portfolio/
 │   └── index.css               # Premium dark glassmorphism styling
 ├── dist/                       # Production build output
 ├── index.html                  # HTML entry point with fonts & metadata
-├── vite.config.js              # Vite configuration
+├── vite.config.js              # Vite configuration.
 └── package.json                # Dependencies and scripts
 ```
 
